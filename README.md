@@ -1,5 +1,1 @@
-# 👁 glasshouse-backend
-
-This is the backend repository for my glasshouse project.
-
-Find the [client repository here](https://github.com/leo-pfeiffer/glasshouse).
+This project has been integrated into the [glasshouse repository](https://github.com/leo-pfeiffer/glasshouse).
